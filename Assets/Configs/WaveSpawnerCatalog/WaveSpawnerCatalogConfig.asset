@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba1b91f46cd61a24a8b5064413eba3b3, type: 3}
+  m_Name: WaveSpawnerCatalogConfig
+  m_EditorClassIdentifier: 
+  _configs:
+  - {fileID: 11400000, guid: 66daa452038987347ae171a077ab757b, type: 2}
+  - {fileID: 11400000, guid: 486de24353fae1b49ab2372da4571a8b, type: 2}
+  - {fileID: 11400000, guid: 523211e3e5b7b7c40b5374ddce3d40e5, type: 2}
+  - {fileID: 11400000, guid: 792947b64db742e4dba0e62390cbddb1, type: 2}
